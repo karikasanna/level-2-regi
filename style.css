@@ -104,6 +104,7 @@ body{
 
 .iconbox {
     border: 3px solid red;
+    border-radius: 1.5rem;
 }
 
 .products .content {
@@ -112,7 +113,7 @@ body{
 }
 
 .imgbox {
-
+    
 }
 
 .footer {
